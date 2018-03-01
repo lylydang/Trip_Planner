@@ -13,6 +13,7 @@
 		EA434F392047D45A00C98CB5 /* TripPlanner.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EA434F372047D45A00C98CB5 /* TripPlanner.xcdatamodeld */; };
 		EA434F3B2047D45A00C98CB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA434F3A2047D45A00C98CB5 /* Assets.xcassets */; };
 		EA434F3E2047D45A00C98CB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA434F3C2047D45A00C98CB5 /* LaunchScreen.storyboard */; };
+		EA434F462047F78A00C98CB5 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA434F452047F78A00C98CB5 /* SearchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA434F3A2047D45A00C98CB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA434F3D2047D45A00C98CB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA434F3F2047D45A00C98CB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA434F452047F78A00C98CB5 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EA434F302047D45A00C98CB5 /* AppDelegate.swift */,
 				EA434F322047D45A00C98CB5 /* ViewController.swift */,
 				EA434F342047D45A00C98CB5 /* Main.storyboard */,
+				EA434F452047F78A00C98CB5 /* SearchViewController.swift */,
 				EA434F3A2047D45A00C98CB5 /* Assets.xcassets */,
 				EA434F3C2047D45A00C98CB5 /* LaunchScreen.storyboard */,
 				EA434F3F2047D45A00C98CB5 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				EA434F332047D45A00C98CB5 /* ViewController.swift in Sources */,
 				EA434F392047D45A00C98CB5 /* TripPlanner.xcdatamodeld in Sources */,
+				EA434F462047F78A00C98CB5 /* SearchViewController.swift in Sources */,
 				EA434F312047D45A00C98CB5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
